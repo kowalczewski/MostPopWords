@@ -26,7 +26,7 @@ you can adjust the number of nodes you are going to use.
 4. Run MostPopWords.py script. The results are saved in two files:
 	1) italian_top100.out (most popular words)
 	2) word_count.out (usage as a function of the number of words)
-5. You can plot the data form word_count.out file using plots.py script.
+5. You can plot the data from word_count.out file using plots.py script.
 
 The default plot shows usage (in %) as a function of the number of words. 
 The plot should tell something like: "If I know 100 words in Italian, 
